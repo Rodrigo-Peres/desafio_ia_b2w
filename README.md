@@ -1,12 +1,13 @@
-# desafio_ia_b2w
+# Desafio IA B2W
 
-##B2W Digital
+# B2W Digital
 We are Hiring - Desafio Inteligência Artifical / FRONT
+
 Link:
 
 https://github.com/b2wdigital/We-are-Hiring/tree/master/desafios-ia-front/clusters-sapatos
 
-##Desafio - Agrupar produtos na visão do usuário
+## Desafio - Agrupar produtos na visão do usuário
 Entregáveis:
 Você deve usar o algoritmo de sua preferência para agrupar os sapatos de acordo com condition, categories e colors disponíveis gerando 4 clusters.
 
